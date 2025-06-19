@@ -1,0 +1,12 @@
+TITLE="Sonic Nostalgia Engine"
+WIDTH=426
+HEIGHT=240
+SCALE=2
+BTN_DOWN=vk_down
+BTN_JUMP=vk_space
+BTN_LEFT=vk_left
+BTN_RIGHT=vk_right
+BTN_UP=vk_up
+LEFT=-1
+RIGHT=1
+Player=obj_player

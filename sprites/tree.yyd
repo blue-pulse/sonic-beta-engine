@@ -1,0 +1,38 @@
++Player
+	+Sonic
+		|spr_sonic_idle
+		|spr_sonic_icon
+		|spr_sonic_hurt
+		|spr_sonic_fall
+		|spr_sonic_walk
+		|spr_sonic_spinball
+		|spr_sonic_duck
+		|spr_sonic_spindash
+	+Mask
+		|spr_mask_big
+		|spr_mask_mid
+		|spr_mask_small
+		|spr_mask_line
+		|spr_mask_main
+		|spr_mask_dot
+	+Parent
+		|spr_entities
+	+Tails
+		|spr_tails_idle
+		|spr_tails_walk
+		|spr_tails_spinball
+		|spr_tails_icon
++Items
+	|spr_ring
++Terrain
+	|spr_grass
+	|spr_grass_platform
+	|spr_dirt
+	|spr_wall
++Camera
+	|spr_camera
+	|spr_hud
+	|spr_hud_font
++Controllers
+	|spr_controller
+	|spr_spawner

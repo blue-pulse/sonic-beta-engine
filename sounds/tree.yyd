@@ -1,0 +1,8 @@
++Items
+	|snd_ring
++Player
+	|snd_player_roll
+	|snd_player_spindash_charge
+	|snd_player_spindash_release
+	|snd_player_jump
+	|snd_player_skid

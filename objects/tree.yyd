@@ -1,0 +1,27 @@
++Player
+	|obj_sonic
+	|obj_tails
+	|obj_player
+	|obj_spawner
++Terrain
+	+Parent
+		|obj_front_solid
+		|obj_back_solid
+		|obj_platform
+		|obj_solid
+	+Generic
+		|obj_wall
+	+Grass
+		|obj_dirt
+		|obj_grass_platform
+		|obj_grass
++Items
+	|obj_ring
++Enemies
+	|obj_buzzer
++Camera
+	|obj_camera
+	|obj_hud
++Controllers
+	|obj_init_controller
+	|obj_stage_controller
